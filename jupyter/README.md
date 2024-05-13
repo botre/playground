@@ -15,8 +15,8 @@ conda activate playground
 Open notebook:
 
 ```bash
-jupyter notebook Notebook.ipynb 
-````
+jupyter notebook Notebook.ipynb
+```
 
 Export the Conda environment:
 
