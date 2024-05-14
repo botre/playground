@@ -1,1 +1,5 @@
-export const App = () => <div>Hello, World!</div>;
+export const App = () => (
+  <div>
+    <h1>Hello, World!</h1>
+  </div>
+);
